@@ -38,7 +38,7 @@ I am especially useful when a team needs to:
 - [Public resume](RESUME.md)
 - [Selected product leadership case studies](CASE-STUDIES.md)
 - [A concise, agent-ready product development playbook](playbooks/agent-ready-product-development.md)
-- [Reusable product-documentation skill and prompt](https://github.com/Burningcode/handy-dandy-cursor-skills/tree/main/skills/agentic-product-documentation)
+- [Reusable AI skills, product-documentation skill, and prompt](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/agentic-product-documentation)
 
 ## How I work
 
