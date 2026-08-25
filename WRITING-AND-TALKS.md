@@ -1,12 +1,8 @@
 # Writing and talks
 
-I write and speak about product leadership, platform design, monetization, executive communication, and the operating systems that help teams turn judgment into measurable outcomes.
+I write and speak about product leadership, platform design, monetization, commerce, and the operating systems that help teams turn judgment into measurable outcomes. Practical operating methods now live in the separate [product leadership playbook library](playbooks/README.md).
 
 ## Product leadership and operating models
-
-### [Executive Communication for Product Leaders](writing/executive-communication-for-product-leaders.md)
-
-A public-safe field guide adapted from a workshop I developed for product managers and leaders. It introduces an Align → Frame → Support pattern for making decisions clearer, faster, and easier to act on.
 
 ### [The Product Team as a Bespoke Suit for Your Organization](https://www.pendo.io/pendo-blog/the-product-team-as-a-bespoke-suit-for-your-organization/)
 
