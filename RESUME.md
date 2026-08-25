@@ -93,6 +93,7 @@ Majors: Finance, Economics, Energy Management · Minors: Philosophy, Accounting
 ## Professional development
 
 - DeepLearning.AI — Agentic AI Course Certificate, 2026
+- HubSpot Academy — [AEO Fundamentals Certification](https://academy.hubspot.com/courses/aeo-fundamentals-certification-en), 2026
 - Johns Hopkins University / Coursera — Data Science Specialization
 - Mind the Product — Fundamentals & Essentials
 - Exponential PM — Product Systems & Probe Analysis
