@@ -64,9 +64,20 @@ I translate product judgment into reusable agent operating contracts—not just 
 
 [Explore all public skills →](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills)
 
+## Product leadership playbooks
+
+The [playbook library](playbooks/README.md) turns several of those operating contracts into practical methods readers can run with a team:
+
+- [PROBE Product Analysis](playbooks/probe-product-analysis.md) — connect purpose, evidence, obstacles, bets, and a decision-changing experiment.
+- [Problem-to-Outcome Story Mapping](playbooks/problem-to-outcome-story-mapping.md) — map the current journey, define outcome intent, and slice end-to-end releases.
+- [Continuous Discovery](playbooks/continuous-discovery.md) — establish a sustainable evidence, opportunity, assumption-test, and decision rhythm.
+- [Diverge → Converge](playbooks/diverge-converge-thinking.md) — escape solution fixation and compare genuinely different mechanisms.
+- [Executive Communication](playbooks/executive-communication-for-product-leaders.md) — make decisions, trade-offs, escalations, and outcomes easier to act on.
+
+[Explore all product leadership playbooks →](playbooks/README.md)
+
 ## Writing and talks
 
-- [Executive Communication for Product Leaders](writing/executive-communication-for-product-leaders.md) — a public-safe field guide adapted from a workshop I developed for product teams.
 - [The Product Team as a Bespoke Suit for Your Organization](https://www.pendo.io/pendo-blog/the-product-team-as-a-bespoke-suit-for-your-organization/) — why product operating models should fit their business context.
 - [The Monetization Barrier](https://www.linkedin.com/pulse/monetization-barrier-c-j-clay-burns-6jqic) — a framework for recognizing when a customer-value problem is really a business-model constraint.
 - [The Modern Checkout Funnel: How Social Commerce Is Disrupting Retail Forever](https://www.linkedin.com/feed/update/urn:li:activity:7381673611729780736/) — a talk on social commerce and the changing path to purchase.
@@ -88,7 +99,7 @@ I am especially useful when a team needs to:
 
 - [Public resume](RESUME.md)
 - [Selected product leadership case studies](CASE-STUDIES.md)
-- [A concise, agent-ready product development playbook](playbooks/agent-ready-product-development.md)
+- [Product leadership playbooks](playbooks/README.md) — practical guides for analysis, discovery, journey mapping, decision-making, communication, and agent-ready delivery.
 - [Reusable AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) — public-safe skills and fictional example playbooks for product strategy, agent analytics, investigation, delivery, and operational automation.
 
 ## About me
