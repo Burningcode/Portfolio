@@ -75,7 +75,7 @@ I translate product judgment into reusable agent operating contracts—not just 
 
 ## Roles I am exploring
 
-I am most interested in AI-centric Principal Product Manager, Director of Product, VP Product, and Head of Product roles with a meaningful player-coach mandate. The best fit will involve building new value across agentic products, marketplaces, data platforms, commerce, energy, defense or drone technology, or public-service platforms.
+I am most interested in AI-centric Principal Product Manager, Director of Product, VP Product, and Head of Product roles with a meaningful player-coach mandate. The best fit will involve building new value across agentic products, marketplaces, data platforms, commerce, energy, defense technology, or public-service platforms.
 
 I am especially useful when a team needs to:
 
