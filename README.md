@@ -38,7 +38,7 @@ I am especially useful when a team needs to:
 - [Public resume](RESUME.md)
 - [Selected product leadership case studies](CASE-STUDIES.md)
 - [A concise, agent-ready product development playbook](playbooks/agent-ready-product-development.md)
-- [Reusable AI skills, product-documentation skill, and prompt](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/agentic-product-documentation)
+- [Reusable AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) — public-safe skills and fictional example playbooks for product strategy, agent analytics, investigation, delivery, and operational automation.
 
 ## How I work
 
