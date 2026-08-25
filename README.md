@@ -22,6 +22,16 @@ Across 11 years at LTK, I worked from hands-on product architecture through exec
 - Agentic product judgment: explicit tool permissions, evaluation criteria, quality floors, human approval points, and cost/latency/quality trade-offs.
 - Cross-functional operating systems that improve decision quality without turning process into bureaucracy.
 
+## Agentic product systems
+
+I translate product judgment into reusable agent operating contracts—not just one-off prompts. My [public AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) shows how I structure evidence, decision gates, permissions, verification, and human accountability across the product lifecycle.
+
+- **Strategy and discovery:** [Working Backwards PRFAQ](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/working-backwards-prfaq), [PROBE product analysis](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/probe-product-analysis), and [agentic product documentation](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/agentic-product-documentation).
+- **Measurement and learning:** [next-generation product analytics](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/next-gen-product-analytics) and [metric root-cause investigation](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/metric-root-cause-investigation).
+- **Operational execution:** [cross-functional status synthesis](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/cross-functional-status-synthesis) and a fictional [Athena-backed MCP automation example](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/creator-gifting-address-lookup).
+
+[Explore all public skills →](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills)
+
 ## Roles I am exploring
 
 I am most interested in AI-centric Principal Product Manager, Director of Product, VP Product, and Head of Product roles with a meaningful player-coach mandate. The best fit will involve building new value across agentic products, marketplaces, data platforms, commerce, energy, defense or drone technology, or public-service platforms.
@@ -53,4 +63,3 @@ For AI products, I also make the operating contract explicit: what the agent may
 - Traverse City, Michigan
 
 _This repository contains public-safe summaries of my work. It intentionally excludes former-employer confidential information, internal links, customer data, source code, and non-public operating details._
-
