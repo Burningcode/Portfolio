@@ -4,6 +4,8 @@ I build AI-enabled products — and the operating systems behind them — that t
 
 Across 11 years at LTK, I worked from hands-on product architecture through executive portfolio leadership. My through-line is translating ambiguity into a clear product bet, aligning Product, Design, Engineering, Data, and commercial partners, and staying accountable through launch and learning.
 
+[Resume](RESUME.md) · [Case studies](CASE-STUDIES.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns) · [Email](mailto:clay.burns@gmail.com)
+
 ## Selected outcomes
 
 | Product leadership | Evidence of impact |
@@ -13,6 +15,7 @@ Across 11 years at LTK, I worked from hands-on product architecture through exec
 | Applied AI and data products | Designed Match.AI's fit and ROAS vectors and collaborative-filtering approach, then validated it with managed-service teams before productization. |
 | Agent-ready product delivery | Co-designed a six-stage, AI-enabled product development system that reduced Ideation-to-Development-start time from eight weeks to four for initiatives not requiring new user research. |
 | Commercial product leadership | Led product delivery for Zara's LTK launch and helped shape the move from subscription pricing toward performance-based monetization. |
+| Leadership leverage | Developed five product leaders; all expanded their scope, and three were promoted. |
 
 ## What I bring
 
@@ -22,17 +25,53 @@ Across 11 years at LTK, I worked from hands-on product architecture through exec
 - Agentic product judgment: explicit tool permissions, evaluation criteria, quality floors, human approval points, and cost/latency/quality trade-offs.
 - Cross-functional operating systems that improve decision quality without turning process into bureaucracy.
 
+## How I lead and work
+
+My leadership style is supportive, direct, and intentional about creating autonomy. I make the customer problem, business outcome, decision owner, and boundaries clear, then expect the people closest to the evidence to state their intent and act. I stay close enough to coach and challenge without becoming another approval layer.
+
+- **Autonomy with accountability:** teams should know what they own, how success will be judged, and when a decision needs escalation.
+- **High trust, high candor:** we debate ideas vigorously and respectfully, invite written input so quieter and distributed voices shape the decision, then commit once the owner decides.
+- **Sustainable urgency:** focus comes from a small number of priorities, explicit trade-offs, and time-bound surges—not permanent firefighting.
+- **Evidence before ego:** I label hypotheses, ask what would disconfirm them, and adapt quickly when the system tells us something different.
+
+I measure leadership by the judgment and capability that remain when I am not in the room. All five product leaders I directly managed expanded their scope, and three were promoted. I also work to make my own influence visible: my energy can anchor a discussion, so I invite others to frame the problem first, ask for disconfirming evidence, and often speak last.
+
+For AI products, I make the operating contract explicit: what an agent may observe and change, how success is evaluated, which silent failures matter, where people remain accountable, and how cost, latency, and quality trade against one another.
+
+## What leaders and teammates say
+
+> “CJ is one of the most effective and complete product managers I've worked with in my 20+ years in software.”
+>
+> — [Gary Kanazawa](https://www.linkedin.com/in/gary-kanazawa/), former VP of Product Management at LTK; managed me for six years
+
+> “CJ is one of the most exceptional product managers I've had the pleasure of working with—truly in a league of his own.”
+>
+> — [Jim Phillips](https://www.linkedin.com/in/jimrwphillips/), VP of Engineering and executive partner at LTK
+
+> “If you need a leader who can drive big picture vision, master the technical details and inspire the people around him, CJ is the person.”
+>
+> — [Aaminah Saifuddin](https://www.linkedin.com/in/aaminah-saifuddin-850197124/), product leader who reported to me for four years
+
 ## Agentic product systems
 
 I translate product judgment into reusable agent operating contracts—not just one-off prompts. My [public AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) shows how I structure evidence, decision gates, permissions, verification, and human accountability across the product lifecycle.
 
-- **Strategy and discovery:** [Working Backwards PRFAQ](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/working-backwards-prfaq), [PROBE product analysis](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/probe-product-analysis), [problem-to-outcome journey mapping](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/user-problem-outcome-journey), [product-system leverage mapping](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/product-system-leverage-map), and [competitive product teardown](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/competitive-product-teardown).
-- **Direction and operating model:** [product vision alignment](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/product-vision-alignment), [outcome and metric design](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/outcome-goal-metric-design), [principle-based decision review](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/product-principles-decision-review), and [product-process improvement](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/product-process-improvement).
-- **Market, growth, and decisions:** [market and GTM strategy](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/market-and-gtm-strategy), [collaborative product critique](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/collaborative-product-critic), [agentic product documentation](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/agentic-product-documentation), and [executive decision briefs](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/executive-decision-brief).
+- **Strategy and discovery:** [Working Backwards PRFAQ](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/working-backwards-prfaq) and [PROBE product analysis](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/probe-product-analysis).
+- **Direction and operating model:** [product vision alignment](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/product-vision-alignment) and [outcome and metric design](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/outcome-goal-metric-design).
+- **Market, growth, and decisions:** [market and GTM strategy](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/market-and-gtm-strategy) and [competitive product teardown](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/competitive-product-teardown).
 - **Measurement and learning:** [next-generation product analytics](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/next-gen-product-analytics) and [metric root-cause investigation](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/metric-root-cause-investigation).
 - **Operational execution:** [cross-functional status synthesis](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/cross-functional-status-synthesis) and a fictional [Athena-backed MCP automation example](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/creator-gifting-address-lookup).
 
 [Explore all public skills →](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills)
+
+## Writing and talks
+
+- [Executive Communication for Product Leaders](writing/executive-communication-for-product-leaders.md) — a public-safe field guide adapted from a workshop I developed for product teams.
+- [The Product Team as a Bespoke Suit for Your Organization](https://www.pendo.io/pendo-blog/the-product-team-as-a-bespoke-suit-for-your-organization/) — why product operating models should fit their business context.
+- [The Monetization Barrier](https://www.linkedin.com/pulse/monetization-barrier-c-j-clay-burns-6jqic) — a framework for recognizing when a customer-value problem is really a business-model constraint.
+- [The Modern Checkout Funnel: How Social Commerce Is Disrupting Retail Forever](https://www.linkedin.com/feed/update/urn:li:activity:7381673611729780736/) — a talk on social commerce and the changing path to purchase.
+
+[Explore writing and talks →](WRITING-AND-TALKS.md)
 
 ## Roles I am exploring
 
@@ -52,11 +91,11 @@ I am especially useful when a team needs to:
 - [A concise, agent-ready product development playbook](playbooks/agent-ready-product-development.md)
 - [Reusable AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) — public-safe skills and fictional example playbooks for product strategy, agent analytics, investigation, delivery, and operational automation.
 
-## How I work
+## About me
 
-I like product documents that make decisions easier, not documents that merely look complete. Before committing a team, I want clarity on the behavior we are trying to create, the immediate beneficiary, new friction, second-order effects, the feedback loop we are changing, and the assumption that most deserves pushback.
+I am a married father of two, newly rooted in Traverse City, Michigan. Family keeps me grounded; outside work, I am happiest skiing, hiking, trail running, or sailing around Northern Michigan.
 
-For AI products, I also make the operating contract explicit: what the agent may observe and change, how success is evaluated, which silent failures matter, where people remain accountable, and how cost, latency, and quality trade against one another.
+Giving back to the product community is how I refill my cup. I served as president of ProductCamp Dallas from 2019 through 2025 and helped the community move from in-person events to virtual and hybrid experiences. I am an enthusiastic optimist with an economist's respect for evidence—curious about complex systems, generous with what I learn, and energized by helping other people do their best work.
 
 ## Contact
 
