@@ -56,6 +56,8 @@ For AI products, I make the operating contract explicit: what an agent may obser
 
 I translate product judgment into reusable agent operating contracts—not just one-off prompts. My [public AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) shows how I structure evidence, decision gates, permissions, verification, and human accountability across the product lifecycle.
 
+I completed DeepLearning.AI's three-course [Generative AI for Software Development specialization](https://www.deeplearning.ai/certificates/1f4d0472-8163-495f-a966-1b367ddb31b9), covering LLM-assisted development, team software engineering with AI, and AI-powered software and system design.
+
 - **Strategy and discovery:** [Working Backwards PRFAQ](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/working-backwards-prfaq) and [PROBE product analysis](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/probe-product-analysis).
 - **Direction and operating model:** [product vision alignment](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/product-vision-alignment) and [outcome and metric design](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/outcome-goal-metric-design).
 - **Market, growth, and decisions:** [market and GTM strategy](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/market-and-gtm-strategy) and [competitive product teardown](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills/competitive-product-teardown).
@@ -115,4 +117,3 @@ Giving back to the product community is how I refill my cup. I served as preside
 - Traverse City, Michigan
 
 _This repository contains public-safe summaries of my work. It intentionally excludes former-employer confidential information, internal links, customer data, source code, and non-public operating details._
-
