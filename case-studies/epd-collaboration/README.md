@@ -2,19 +2,19 @@
 
 [Back to case studies](../README.md) · [Back to portfolio](../../README.md)
 
-> **Portfolio note:** This is a public-safe synthesis of a product-development system I co-designed and operationalized with Engineering, Product, and Design partners. It preserves the operating model, my contribution, and a verified cycle-time result while excluding former-employer systems, internal links, individual contributors, and confidential implementation detail. It should not be read as sole authorship of a collaborative system.
+> **Portfolio note:** This is a public-safe synthesis of a product-development process I co-designed and operationalized with Engineering, Product, and Design partners. It preserves the working model, my contribution, and a verified cycle-time result while excluding former-employer systems, internal links, individual contributors, and confidential implementation detail. It should not be read as sole authorship of a collaborative process.
 
 ## Executive summary
 
 The delivery problem was not a lack of effort. Teams were losing time to evolving requirements, dates committed before the experience and technical approach were understood, hidden scope changes, unclear ownership, late quality work, and context scattered across tools. Product, Design, and Engineering could each be doing reasonable work while the initiative as a whole remained difficult to predict or learn from.
 
-I helped develop and operationalize a six-stage product-development system from **Ideation** through **Learn**. A small cross-functional leadership group shared accountability for each initiative. At kickoff, that group defined the minimum useful **Artifacts, Ceremonies, and Expectations (ACE)** for the work. The stages made confidence visible: relative sizing early, a low-confidence range during Discovery, refined scope and estimates after experience and technical design, and committed dates only when fidelity supported them.
+I helped develop and operationalize a six-stage product-development process from **Ideation** through **Learn**. A small cross-functional leadership group shared accountability for each initiative. At kickoff, that group defined the minimum useful **Artifacts, Ceremonies, and Expectations (ACE)** for the work. The stages made confidence visible: relative sizing early, a low-confidence range during Discovery, refined scope and estimates after experience and technical design, and committed dates only when fidelity supported them.
 
-For initiatives that did not require new user research, the system reduced time from Ideation to the start of Development from eight weeks to four. It also localized product, design, technical, and decision context across Jira, GitHub, Figma, Cursor, and coding agents so smaller tasks could move from clear requirements into tickets and pull requests without asking an agent to infer product strategy or authority.
+For initiatives that did not require new user research, the process reduced time from Ideation to the start of Development from eight weeks to four. It also kept the current problem, requirements, designs, technical decisions, scope changes, and measurement plan close to the work in Jira, GitHub, and Figma.
 
 ## The collaboration problem
 
-The system was designed around recurring failure modes:
+The process was designed around recurring failure modes:
 
 - A solution arrived before the customer or business problem was clear.
 - Product, Design, and Engineering joined at different points and inherited decisions they had not helped shape.
@@ -59,16 +59,167 @@ The mechanics worked only if the team also changed how it handled disagreement a
 - Judge the process by customer and business results, not by how many artifacts or meetings it produces.
 - Treat defects and missed assumptions as learning inputs, not occasions to assign blame.
 
-## What the six stages looked like
+## How work moved through the six stages
 
-| Stage | How Product, Design, and Engineering worked together | Decision or exit gate |
-| --- | --- | --- |
-| **1. Ideation** | Define the problem, target user and behavior, strategic fit, initial evidence, and relative size. Keep the brief centered on the problem rather than a preferred feature. | Decide whether the problem is worth funding for Discovery now. |
-| **2. Discovery** | Confirm the ACE agreement and stakeholder cadence; involve dependent teams; explore genuinely different approaches with low-fidelity flows, technical input, and a low-confidence estimate. | Select the simplest effective direction and explain why any added complexity is justified. |
-| **3. Design** | Bring the experience and technical approach to build-ready fidelity. Validate the flow where needed; identify architecture, platform, data, privacy, and reliability implications; define instrumentation and success measures. | Approve the experience and technical plan, lock explicit scope, and make a medium-confidence forecast. |
-| **4. Development** | Kick off from shared scope and risks; keep stories linked to decisions and designs; test function, integration, responsiveness, and design quality; implement instrumentation; prepare support and go-to-market work in parallel. | Pass the agreed quality checks and assemble evidence for a go/no-go recommendation. |
-| **5. Launch** | Complete operational readiness, UAT, monitoring, rollout and rollback planning, customer communication, and support ownership. Verify that the product and its health are observable. | The accountable humans make and record the go/no-go decision. |
-| **6. Learn** | Compare behavior and business outcomes with the hypothesis and thresholds; combine data with user feedback; examine incidents and operating cost; make segment differences visible. | Decide to iterate, invest further, scale, pause, or stop—and create new work for that decision. |
+Every stage followed the same basic pattern:
+
+1. Confirm that the required inputs exist and are current.
+2. Bring the right Product, Design, Engineering, and partner perspectives into the work.
+3. Produce the decisions and documents the next stage needs.
+4. Record the exit decision instead of letting work drift forward by default.
+
+The documents below are not all required for every initiative. The cross-functional group used its ACE agreement to choose the smallest set that matched the size, risk, and reversibility of the work.
+
+The underlying work named the one-pager, PRD, research and testing synthesis, low- and high-fidelity designs, technical design, Jira/JPD, QA/UAT, operational-readiness review, dashboards, and learning summary. I have grouped those documents by the stage where they are created or consumed. The **as needed** lists show what a team could add when a particular risk or dependency required it.
+
+### 1. Ideation — decide which problems deserve attention
+
+**Inputs**
+
+- A customer, business, operational, or technical signal worth investigating.
+- Initial evidence from feedback, research, product data, incidents, strategy, or market context.
+- Enough context to identify the affected user and the behavior or outcome that may need to change.
+
+**Working model**
+
+Product framed the problem and strategic relevance. Design and Engineering challenged assumptions, added user and system context, and helped expose obvious dependencies or constraints. The group did only enough early research and relative sizing to decide whether the problem merited Discovery.
+
+**Outputs and exit decision**
+
+- A problem-led one-pager or product idea, not a preselected feature specification.
+- A lightweight PRD draft aligned by the cross-functional group.
+- A relative size such as pebble, rock, or boulder.
+- A clear decision to fund Discovery now, hold the idea, or stop.
+
+**Documents**
+
+- **Core:** product idea or one-pager; lightweight PRD draft.
+- **As needed:** customer-feedback summary, product-data snapshot, incident summary, competitive context, early research notes.
+
+### 2. Discovery — choose the simplest effective direction
+
+**Inputs**
+
+- The approved problem statement and lightweight PRD.
+- Initial evidence, known assumptions, and relative size.
+- The decision to spend time shaping an approach.
+
+**Working model**
+
+The group set its ACE agreement, identified stakeholders and dependent teams, and agreed on how decisions and updates would work. Product, Design, and Engineering explored more than one approach using low-fidelity flows, technical input, and partner expertise. Options were compared on whether they solved the problem and what complexity they introduced across the experience, technology, operations, organization, and business.
+
+**Outputs and exit decision**
+
+- A chosen direction and a written explanation of why it is the best current option.
+- Explicit non-goals, assumptions, dependencies, and material trade-offs.
+- Stakeholder and dependent-team alignment.
+- A low-confidence effort range that preserves flexibility.
+- A decision to advance to Design, continue Discovery, or stop.
+
+**Documents**
+
+- **Core:** ACE working agreement; updated PRD; low-fidelity flows or mocks; dependency list; decision record; initial Jira/JPD structure.
+- **As needed:** stakeholder map, research plan and synthesis, competitive analysis, option comparison, technical spike, data assessment, Legal/Privacy/Security review notes.
+
+### 3. Design — make the experience and technical plan build-ready
+
+**Inputs**
+
+- The selected direction, updated PRD, non-goals, and decision record.
+- Low-fidelity flows, research findings, known dependencies, and ACE agreement.
+- The low-confidence effort range from Discovery.
+
+**Working model**
+
+Design brought the experience to the fidelity needed for review and testing. Engineering completed the technical design and exposed architecture, infrastructure, platform, data, reliability, and migration implications. Product kept the work tied to the intended behavior and business outcome. Together, the group defined success measures, instrumentation, risks, final scope, and the quality bar.
+
+**Outputs and exit decision**
+
+- Approved experience designs and a clickable prototype where useful.
+- A reviewed technical design and estimate.
+- Finalized epics, acceptance criteria, and dependencies.
+- A measurement plan covering events, dashboards, and outcome review.
+- Locked scope and a medium-confidence forecast; later scope changes require a new trade-off and date.
+- A decision that the initiative is build-ready or needs more Design work.
+
+**Documents**
+
+- **Core:** current PRD; high-fidelity designs; technical design; epics and acceptance criteria; measurement and instrumentation plan.
+- **As needed:** usability-test plan and synthesis, data/event specification, privacy or threat review, accessibility review, design-system exception, migration plan, dependency agreement, launch experiment design.
+
+### 4. Development — build, test, and prepare to operate the product
+
+**Inputs**
+
+- Locked scope, approved designs, technical design, and current decision record.
+- Groomed epics and acceptance criteria.
+- The measurement plan, quality bar, and known launch requirements.
+
+**Working model**
+
+The group began with a development kickoff covering scope, priorities, risks, and unresolved questions. Engineering built and tested each slice. Design stayed engaged through implementation and design QA. Product clarified business rules and evaluated whether the slices still served the intended outcome. Test planning began before final UAT, and instrumentation, support, and go-to-market preparation moved alongside the build rather than waiting for the end.
+
+**Outputs and exit decision**
+
+- A release candidate that passes the agreed functional, integration, responsive, and design checks.
+- Working instrumentation and launch dashboards.
+- Completed or scheduled UAT with material issues resolved or explicitly accepted.
+- A draft go-to-market and support plan.
+- A cross-functional go/no-go recommendation for Launch.
+
+**Documents**
+
+- **Core:** groomed backlog; linked designs and technical plan; test plan and test cases; design-QA record; decision and scope-change log; dashboard specification; draft go-to-market plan.
+- **As needed:** UAT plan, data-QA checklist, dependency delivery plan, support runbook, release checklist, training or enablement materials.
+
+### 5. Launch — release safely and make the product operable
+
+**Inputs**
+
+- The release candidate and quality evidence.
+- The cross-functional go/no-go recommendation.
+- UAT results, operational-readiness work, dashboards, alerts, support ownership, and customer communication plan.
+
+**Working model**
+
+Product, Design, Engineering, Support, and go-to-market partners reviewed readiness together. The team verified the customer experience, operational ownership, monitoring, communications, and recovery path. The release decision was made from evidence, not from the calendar alone.
+
+**Outputs and exit decision**
+
+- A recorded go/no-go decision and, when approved, a live product.
+- A completed operational-readiness review.
+- Working dashboards, monitoring, and alerts.
+- Customer communication, support coverage, and availability rules in place.
+- A clear owner for early results, incidents, and escalation.
+
+**Documents**
+
+- **Core:** go/no-go record; operational-readiness review; UAT sign-off; monitoring and dashboard links; customer communication and support plan.
+- **As needed:** phased-rollout plan, rollback plan, incident-response guide, escalation matrix, launch checklist, internal enablement materials.
+
+### 6. Learn — decide what happens next
+
+**Inputs**
+
+- The original problem, hypothesis, success measures, and decision thresholds.
+- Product behavior and business results from the agreed measurement window.
+- Customer feedback, support themes, incidents, operating cost, and quality findings.
+
+**Working model**
+
+Product, Design, Engineering, Data, and relevant partners compared results with the original goals. They looked at both aggregate and segmented behavior, combined quantitative results with qualitative evidence, and separated a product problem from an operating, adoption, or measurement problem.
+
+**Outputs and exit decision**
+
+- A clear result against the original hypothesis and measures.
+- A documented summary of what worked, what did not, and what remains uncertain.
+- A recommendation to iterate, invest further, scale, pause, de-scope, or stop.
+- New work created for the next decision instead of being hidden inside the retrospective.
+
+**Documents**
+
+- **Core:** outcome readout; learning summary; recommendation or decision memo; updated product idea, roadmap, or backlog.
+- **As needed:** research synthesis, segmented funnel analysis, experiment readout, incident review, cost analysis, follow-up PRD, revised measurement plan.
 
 ## The rules that changed behavior
 
@@ -82,7 +233,7 @@ Acceptance criteria were not a substitute for collaboration. Product clarified t
 
 ### Decisions lived with the work
 
-The current problem, requirements, designs, technical boundaries, accepted trade-offs, non-goals, test expectations, and decision history had to be easy for builders to find. This improved human handoffs and created a bounded context contract for coding agents: an agent could implement clear work, but it could not invent missing product strategy, authority, or irreversible permissions.
+The current problem, requirements, designs, technical boundaries, accepted trade-offs, non-goals, test expectations, and decision history had to be easy for the team to find. The goal was to prevent each new conversation or handoff from rebuilding the project from memory.
 
 ### Learning ended with a choice
 
@@ -92,14 +243,14 @@ The Learn stage was not complete when a dashboard or retrospective existed. It e
 
 For initiatives not requiring new user research, time from Ideation to Development start fell from eight weeks to four. That measure is a stage-cycle result, not total delivery time, feature throughput, or proof that every initiative moved twice as fast.
 
-The system localized product, design, technical, and decision context for teams and coding agents. It did not eliminate every organizational bottleneck. Executive alignment and access to decision-makers remained a meaningful headwind when a bet required approval outside the cross-functional group.
+The process localized product, design, technical, and decision context for the team. It did not eliminate every organizational bottleneck. Executive alignment and access to decision-makers remained a meaningful headwind when a bet required approval outside the cross-functional group.
 
 ## What this demonstrates
 
-- Cross-functional operating-system design grounded in actual delivery failure modes.
+- A process built around problems teams were actually experiencing.
 - Shared accountability without blurring functional expertise or decision rights.
-- Honest confidence management instead of premature delivery precision.
+- Estimates that became more specific only as the work became clearer.
 - Quality, measurement, launch readiness, and learning treated as product work.
-- Agent-ready context with explicit human authority and approval boundaries.
+- A repeatable handoff from evidence to decisions, delivery, launch, and learning.
 
-For the reusable version of the method, see the [agent-ready product development playbook](../../playbooks/agent-ready-product-development.md).
+For the shorter reusable version, see the [product development playbook](../../playbooks/agent-ready-product-development.md).

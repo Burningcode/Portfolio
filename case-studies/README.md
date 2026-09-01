@@ -2,26 +2,29 @@
 
 [Back to portfolio](../README.md)
 
-This folder collects two kinds of work: a flagship case that exposes the full product-development trail behind a shipped product, and shorter independent examples of product judgment and operating-system design.
+This folder includes one detailed product case, one case about how teams work, and three shorter examples. Start with Shopify to see how I move from customer evidence to a shipped product. Start with the collaboration case to see how I structure decisions and delivery across Product, Design, and Engineering.
 
 ## Start here
 
 ### 1. [Shopify-enabled Creator Gifting](shopify-gifting/EXECUTIVE-SUMMARY.md)
 
-The flagship case shows how customer evidence became a product hypothesis, positioning, requirements, workflow and architecture decisions, a bounded feasibility build, an enterprise pilot, and a path from integration wedge to broader platform.
+This is the deepest case in the portfolio. It covers the original operating problem, product vision and positioning, workflow and architecture decisions, a 3-week feasibility build, an enterprise pilot, and what changed for the brand teams using it.
 
-It is intended to become the most complete case in this portfolio. The executive summary is available now. The public-safe Product Press Release, Product Requirements, and User Stories will be linked here after their final review.
+- [Read the Executive Summary](shopify-gifting/EXECUTIVE-SUMMARY.md)
+- [Read the Product Press Release](shopify-gifting/PRODUCT-PRESS-RELEASE.md)
+
+The Product Requirements and User Stories will be added after their final review.
 
 ### 2. [Improving Collaboration Across Engineering, Product, and Design](epd-collaboration/README.md)
 
-An independent case about treating product development as a product. It shows how I helped turn recurring friction—evolving requirements, premature dates, hidden scope change, unclear ownership, late quality work, and weak post-launch learning—into a six-stage operating system with shared cross-functional ownership and explicit working agreements.
+This case explains the working model I helped develop with Product, Design, and Engineering partners. It lays out what each stage needs before work starts, how the team works together, what must exist when the stage is complete, and which documents support the work.
 
-The related [agent-ready product development playbook](../playbooks/agent-ready-product-development.md) extracts the reusable method and extends it for coding agents and AI products.
+A shorter [product development playbook](../playbooks/agent-ready-product-development.md) turns the same model into a reusable guide.
 
 ### 3. [Other selected product leadership cases](Other-Case-Studies.md)
 
-Three abbreviated examples covering 0-to-1 creator-commerce platform architecture, creator-brand matching, and agent-ready product development.
+Three abbreviated examples covering 0-to-1 creator-commerce platform architecture, creator-brand matching, and cross-functional product development.
 
 ## How this collection will evolve
 
-The Shopify case will remain the exhaustive flagship. This index will be updated once its remaining public-safe artifacts finish review; the shorter cases will stay intentionally concise.
+The next update will add the Shopify Product Requirements and User Stories after they finish review. The shorter cases will stay intentionally concise.
