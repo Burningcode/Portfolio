@@ -4,7 +4,11 @@ I build AI-enabled products — and the operating systems behind them — that t
 
 Across 11 years at LTK, I worked from hands-on product architecture through executive portfolio leadership. My through-line is translating ambiguity into a clear product bet, aligning Product, Design, Engineering, Data, and commercial partners, and staying accountable through launch and learning.
 
-[Resume](RESUME.md) · [Case studies](CASE-STUDIES.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns) · [Email](mailto:clay.burns@gmail.com)
+[Resume](RESUME.md) · [Shopify gifting case study](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md) · [Other case studies](Other-Case-Studies.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns) · [Email](mailto:clay.burns@gmail.com)
+
+## Featured case study
+
+**[Shopify-enabled Creator Gifting](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md):** A sanitized end-to-end product case showing how customer discovery, a 3-week feasibility integration, and a 5-enterprise-brand pilot turned message-based gifting into a scalable commerce workflow while preserving brand judgment.
 
 ## Selected outcomes
 
@@ -100,7 +104,8 @@ I am especially useful when a team needs to:
 ## Portfolio
 
 - [Public resume](RESUME.md)
-- [Selected product leadership case studies](CASE-STUDIES.md)
+- [Shopify-enabled Creator Gifting case study](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
+- [Other selected product leadership case studies](Other-Case-Studies.md)
 - [Product leadership playbooks](playbooks/README.md) — practical guides for analysis, discovery, journey mapping, decision-making, communication, and agent-ready delivery.
 - [Reusable AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) — public-safe skills and fictional example playbooks for product strategy, agent analytics, investigation, delivery, and operational automation.
 
