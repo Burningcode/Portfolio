@@ -114,6 +114,6 @@ Giving back to the product community is how I refill my cup. I served as preside
 
 - [LinkedIn](https://www.linkedin.com/in/cjeburns)
 - [Email](mailto:clay.burns@gmail.com)
-- Traverse City, Michigan
+- Located in Traverse City, Michigan, always happy to have a beer and talk shop.
 
 _This repository contains public-safe summaries of my work. It intentionally excludes former-employer confidential information, internal links, customer data, source code, and non-public operating details._
