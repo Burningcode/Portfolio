@@ -8,7 +8,13 @@ Across 11 years at LTK, I worked from hands-on product architecture through exec
 
 ## Featured case study
 
-**[Shopify-enabled Creator Gifting](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md):** A sanitized end-to-end product case showing how customer discovery, a 3-week feasibility integration, and a 5-enterprise-brand pilot turned message-based gifting into a scalable commerce workflow while preserving brand judgment.
+### [Shopify-enabled Creator Gifting: scale product seeding without scaling coordination](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
+
+Brand teams had more creator demand and gifting inventory than they could operate through messages and spreadsheets. I worked with a staff engineer to test a different operating model: let creators choose from brand-approved products and variants, turn that choice into collaboration acceptance and a gift-tagged Shopify order, and move it through the brand's normal fulfillment workflow.
+
+The 3-week feasibility integration was tested with 5 enterprise brands. It reduced active brand-team handling time by approximately 95% per collaboration and supported approximately 10x program scale. The case shows the product judgment behind the result: broaden creator access, automate repetitive coordination, keep Shopify authoritative for commerce and fulfillment, and leave creator fit, inventory, economics, and performance decisions with the brand.
+
+[Read the end-to-end case study →](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
 
 ## Selected outcomes
 
