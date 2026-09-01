@@ -1,6 +1,6 @@
 # Executive Summary: Shopify-enabled Creator Gifting
 
-[Back to portfolio](../../README.md)
+[Back to case studies](../README.md) · [Back to portfolio](../../README.md)
 
 > **Portfolio note:** This is a sanitized portfolio case based on shipped work I led as Product Lead. The functional scope comes from contemporaneous requirements; I normalized the acceptance criteria into a public-safe product contract, so this is representative rather than a verbatim internal document. Company and customer names, internal links, dates, and proprietary implementation details have been generalized. My role and the approximate operating outcomes have been retained.
 

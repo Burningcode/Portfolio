@@ -1,5 +1,7 @@
 # Selected product leadership case studies
 
+[Back to case studies](README.md) · [Back to portfolio](../README.md)
+
 These abbreviated cases focus on the product judgment and operating patterns behind the work. They use verified, public-safe claims and intentionally omit confidential implementation detail.
 
 ## 1. Architecting a 0-to-1 creator-commerce platform

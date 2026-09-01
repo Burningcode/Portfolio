@@ -4,7 +4,7 @@ I build AI-enabled products — and the operating systems behind them — that t
 
 Across 11 years at LTK, I worked from hands-on product architecture through executive portfolio leadership. My through-line is translating ambiguity into a clear product bet, aligning Product, Design, Engineering, Data, and commercial partners, and staying accountable through launch and learning.
 
-[Resume](RESUME.md) · [Shopify gifting case study](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md) · [Other case studies](case-studies/Other-Case-Studies.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns) · [Email](mailto:clay.burns@gmail.com)
+[Resume](RESUME.md) · [Case studies](case-studies/README.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns) · [Email](mailto:clay.burns@gmail.com)
 
 ## Featured case study
 
@@ -110,7 +110,9 @@ I am especially useful when a team needs to:
 ## Portfolio
 
 - [Public resume](RESUME.md)
+- [Product case studies](case-studies/README.md) — the flagship Shopify case, an independent EPD collaboration and SDLC case, and shorter selected examples.
 - [Shopify-enabled Creator Gifting case study](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
+- [Improving Collaboration Across Engineering, Product, and Design](case-studies/epd-collaboration/README.md)
 - [Other selected product leadership case studies](case-studies/Other-Case-Studies.md)
 - [Product leadership playbooks](playbooks/README.md) — practical guides for analysis, discovery, journey mapping, decision-making, communication, and agent-ready delivery.
 - [Reusable AI skills library](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) — public-safe skills and fictional example playbooks for product strategy, agent analytics, investigation, delivery, and operational automation.
