@@ -14,7 +14,7 @@ Brand teams had more creator demand and gifting inventory than they could operat
 
 The 3-week feasibility integration was tested with 5 enterprise brands. It reduced active brand-team handling time by approximately 95% per collaboration and supported approximately 10x program scale. The case shows the product judgment behind the result: broaden creator access, automate repetitive coordination, keep Shopify authoritative for commerce and fulfillment, and leave creator fit, inventory, economics, and performance decisions with the brand.
 
-[Read the end-to-end case study →](case-studies/shopify-gifting/README.md)
+[Executive Summary](case-studies/shopify-gifting/README.md) · [Product Requirements](case-studies/shopify-gifting/PRODUCT-REQUIREMENTS.md) · [Product Press Release](case-studies/shopify-gifting/PRODUCT-PRESS-RELEASE.md)
 
 ## Selected outcomes
 

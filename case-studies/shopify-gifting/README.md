@@ -104,6 +104,5 @@ The pilot population was 5 enterprise brands. Brand names, the exact measurement
 
 ## Additional artifacts
 
+- [Product Requirements](./PRODUCT-REQUIREMENTS.md)
 - [Product Press Release](./PRODUCT-PRESS-RELEASE.md)
-
-The Product Requirements and User Stories are under review and will be added after approval.

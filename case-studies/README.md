@@ -11,9 +11,8 @@ This folder includes one detailed product case, one case about how teams work, a
 This is the deepest case in the portfolio. It covers the original operating problem, product vision and positioning, workflow and architecture decisions, a 3-week feasibility build, an enterprise pilot, and what changed for the brand teams using it.
 
 - [Read the Executive Summary](shopify-gifting/README.md)
+- [Read the Product Requirements](shopify-gifting/PRODUCT-REQUIREMENTS.md)
 - [Read the Product Press Release](shopify-gifting/PRODUCT-PRESS-RELEASE.md)
-
-The Product Requirements and User Stories will be added after their final review.
 
 ### 2. [Improving Collaboration Across Engineering, Product, and Design](epd-collaboration/README.md)
 
@@ -24,7 +23,3 @@ A shorter [product development playbook](../playbooks/agent-ready-product-develo
 ### 3. [Other selected product leadership cases](Other-Case-Studies.md)
 
 Three abbreviated examples covering 0-to-1 creator-commerce platform architecture, creator-brand matching, and cross-functional product development.
-
-## How this collection will evolve
-
-The next update will add the Shopify Product Requirements and User Stories after they finish review. The shorter cases will stay intentionally concise.
