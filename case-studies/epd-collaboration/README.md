@@ -253,4 +253,43 @@ The process localized product, design, technical, and decision context for the t
 - Quality, measurement, launch readiness, and learning treated as product work.
 - A repeatable handoff from evidence to decisions, delivery, launch, and learning.
 
+## Language appendix
+
+The source SDLC process used the terms below as working language. These definitions are paraphrased for public use and show how the vocabulary supported clearer ownership, decisions, and handoffs.
+
+### Team operating language
+
+| Term | Working definition | Why it mattered |
+| --- | --- | --- |
+| **ACE** | **Artifacts, Ceremonies, and Expectations:** the three parts of the team's collaboration model. | It made the mechanics of collaboration explicit instead of relying on individual habits. |
+| **Artifact** | A living document or record that captures the current problem, decisions, changes, or progress. | It preserved context and gave the team a shared source of truth. |
+| **Ceremony** | A recurring or purpose-built working session used to align, decide, review, or execute. | Each meeting had a job and produced a decision, action, or updated artifact. |
+| **Expectation** | An agreed working norm covering roles, quality, communication, timelines, or accountability. | It exposed assumptions early and gave the team a standard for resolving friction. |
+| **QUAD** | The Product Manager, Product Designer, Tech Lead, and Engineering Manager jointly leading an initiative. | It placed product, experience, technical direction, and delivery health in one accountable group. |
+
+### Discovery and definition language
+
+| Term | Working definition | Why it mattered |
+| --- | --- | --- |
+| **One-pager / project brief / Jira Idea** | A concise statement of the problem, target user, opportunity, expected outcome, risks, assumptions, and open questions. | It gave the team enough context to decide whether deeper discovery was warranted without pretending the solution was settled. |
+| **PRD** | A Product Requirements Document describing the purpose, goals, success measures, intended behavior, users and use cases, constraints, dependencies, and scope. | It converted an agreed direction into a testable product contract while leaving implementation decisions with the right owners. |
+| **User flow** | A map of the steps, screens, and decisions a person moves through to complete a task. | It helped the team find missing states, friction, and dependencies before build. |
+| **User research** | Qualitative or quantitative evidence about users' needs, behaviors, motivations, and pain points. | It tested whether the team understood the problem and informed which opportunity to pursue. |
+| **User testing** | Observation of people using a concept, design, or product to evaluate comprehension, usability, and fit. | It tested whether the proposed experience worked, not merely whether stakeholders liked it. |
+| **Low fidelity** | Rough flows or wireframes focused on structure, hierarchy, and behavior rather than visual polish. | It made early options inexpensive to compare and change. |
+| **High fidelity** | A detailed representation of the intended interface, content, and interactions. | It supported precise review, realistic testing, and build-ready communication. |
+| **T-shirt estimate** | A relative effort or complexity range such as small, medium, or large rather than an exact date or hour count. | It supported early comparison without turning limited information into false precision. |
+
+### Portfolio and release language
+
+| Term | Working definition | Why it mattered |
+| --- | --- | --- |
+| **JPD** | Jira Product Discovery, used to manage product ideas, evidence, priority, and lifecycle state before and alongside delivery work. | It kept opportunity and decision context connected to execution. |
+| **SDLC stage** | The current lifecycle position of an initiative: Ideation, Discovery, Design, Development, Launch, or Learn. | It answered, “Where is this work in the process?” |
+| **Now / Next / Later** | A portfolio signal showing present commitment, likely future intent, or an option that remains open. | It answered, “How strongly are we betting on this, and roughly when?” without confusing priority with lifecycle progress. |
+| **Pebble / Rock / Boulder** | Relative initiative sizes: a small and reversible change, a meaningful feature or system investment, or a large effort spanning much of a quarter or multiple teams. | It created a common way to discuss scope, dependencies, and planning expectations. |
+| **UAT** | User Acceptance Testing: validation that the completed experience satisfies the agreed product behavior and business needs. | It supplied evidence for release readiness beyond implementation completion. |
+| **ORR** | Operational Readiness Review: confirmation that monitoring, support, communications, ownership, and recovery plans are ready for release. | It made operability part of the product launch decision. |
+| **Go / No-Go** | An explicit cross-functional decision to release or hold based on quality, user acceptance, operational readiness, and unresolved risk. | It prevented the calendar alone from determining whether a product shipped. |
+
 For the shorter reusable version, see the [product development playbook](../../playbooks/agent-ready-product-development.md).
