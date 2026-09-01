@@ -1,6 +1,6 @@
 # Product Press Release: Shopify-enabled Creator Gifting
 
-[Back to case study](./EXECUTIVE-SUMMARY.md) · [Back to portfolio](../../README.md)
+[Back to case study](./README.md) · [Back to portfolio](../../README.md)
 
 > **Portfolio note:** This is a sanitized reconstruction of a product press release based on shipped work. It expresses the customer promise and operating model reflected in the accompanying case, not a verbatim announcement issued at the time. Company and customer names, dates, internal links, and proprietary implementation details have been generalized. Availability language describes the reconstructed launch sequence and is not a current commercial offer.
 
@@ -89,6 +89,6 @@ The following public LTK pages provide historical or current category context fo
 
 ## Related product documents
 
-- [Executive Summary](./EXECUTIVE-SUMMARY.md)
+- [Executive Summary](./README.md)
 - Product Requirements, under review
 - User Stories, under review

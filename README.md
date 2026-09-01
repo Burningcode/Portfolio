@@ -8,13 +8,13 @@ Across 11 years at LTK, I worked from hands-on product architecture through exec
 
 ## Featured case study
 
-### [Shopify-enabled Creator Gifting: scale product seeding without scaling coordination](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
+### [Shopify-enabled Creator Gifting: scale product seeding without scaling coordination](case-studies/shopify-gifting/README.md)
 
 Brand teams had more creator demand and gifting inventory than they could operate through messages and spreadsheets. I worked with a staff engineer to test a different operating model: let creators choose from brand-approved products and variants, turn that choice into collaboration acceptance and a gift-tagged Shopify order, and move it through the brand's normal fulfillment workflow.
 
 The 3-week feasibility integration was tested with 5 enterprise brands. It reduced active brand-team handling time by approximately 95% per collaboration and supported approximately 10x program scale. The case shows the product judgment behind the result: broaden creator access, automate repetitive coordination, keep Shopify authoritative for commerce and fulfillment, and leave creator fit, inventory, economics, and performance decisions with the brand.
 
-[Read the end-to-end case study →](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
+[Read the end-to-end case study →](case-studies/shopify-gifting/README.md)
 
 ## Selected outcomes
 
@@ -111,7 +111,7 @@ I am especially useful when a team needs to:
 
 - [Public resume](RESUME.md)
 - [Product case studies](case-studies/README.md) — the flagship Shopify case, an independent EPD collaboration and SDLC case, and shorter selected examples.
-- [Shopify-enabled Creator Gifting case study](case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md)
+- [Shopify-enabled Creator Gifting case study](case-studies/shopify-gifting/README.md)
 - [Improving Collaboration Across Engineering, Product, and Design](case-studies/epd-collaboration/README.md)
 - [Other selected product leadership case studies](case-studies/Other-Case-Studies.md)
 - [Product leadership playbooks](playbooks/README.md) — practical guides for analysis, discovery, journey mapping, decision-making, communication, and agent-ready delivery.
