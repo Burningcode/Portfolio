@@ -12,6 +12,7 @@ This is the deepest case in the portfolio. It covers the original operating prob
 
 - [Read the Executive Summary](shopify-gifting/README.md)
 - [Read the Product Requirements](shopify-gifting/PRODUCT-REQUIREMENTS.md)
+- [Read the MVP User Stories](shopify-gifting/USER-STORIES.md)
 - [Read the Product Press Release](shopify-gifting/PRODUCT-PRESS-RELEASE.md)
 
 ### 2. [Improving Collaboration Across Engineering, Product, and Design](epd-collaboration/README.md)

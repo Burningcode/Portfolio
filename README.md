@@ -10,11 +10,11 @@ Across 11 years at LTK, I worked from hands-on product architecture through exec
 
 ### [Shopify-enabled Creator Gifting: scale product seeding without scaling coordination](case-studies/shopify-gifting/README.md)
 
-Brand teams had more creator demand and gifting inventory than they could operate through messages and spreadsheets. I worked with a staff engineer to test a different operating model: let creators choose from brand-approved products and variants, turn that choice into collaboration acceptance and a gift-tagged Shopify order, and move it through the brand's normal fulfillment workflow.
+Brand teams had more creator demand and gifting inventory than they could operate through messages and spreadsheets. I worked with a staff engineer to test a different operating model: let creators choose from brand-approved products and variants, accept by submitting the complete order, and move that order through the brand's normal Shopify fulfillment workflow.
 
 The 3-week feasibility integration was tested with 5 enterprise brands. It reduced active brand-team handling time by approximately 95% per collaboration and supported approximately 10x program scale. The case shows the product judgment behind the result: broaden creator access, automate repetitive coordination, keep Shopify authoritative for commerce and fulfillment, and leave creator fit, inventory, economics, and performance decisions with the brand.
 
-[Executive Summary](case-studies/shopify-gifting/README.md) · [Product Requirements](case-studies/shopify-gifting/PRODUCT-REQUIREMENTS.md) · [Product Press Release](case-studies/shopify-gifting/PRODUCT-PRESS-RELEASE.md)
+[Executive Summary](case-studies/shopify-gifting/README.md) · [Product Requirements](case-studies/shopify-gifting/PRODUCT-REQUIREMENTS.md) · [MVP User Stories](case-studies/shopify-gifting/USER-STORIES.md) · [Product Press Release](case-studies/shopify-gifting/PRODUCT-PRESS-RELEASE.md)
 
 ## Selected outcomes
 

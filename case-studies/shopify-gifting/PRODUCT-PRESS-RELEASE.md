@@ -10,7 +10,7 @@
 
 ## Subheadline
 
-Creators can apply for gifting collaborations in 3 clicks or respond to targeted invitations, while Shopify merchants can move accepted selections into normal fulfillment without storefront code, spreadsheets, or repetitive coordination.
+Creators can apply for gifting collaborations in 3 clicks or respond to targeted invitations, while Shopify merchants can move completed gift orders into normal fulfillment without storefront code, spreadsheets, or repetitive coordination.
 
 ## Announcement
 
@@ -36,9 +36,9 @@ Shopify-enabled Creator Gifting supports both discovery and targeted outreach. A
 
 As applications arrive, the creator commerce platform vets them against the campaign criteria and surfaces the strongest applicants for brand review. The brand keeps the final decision about creator fit. Approved applicants and invited creators then review the offer and choose one or more eligible products and variants within the brand's limits on product count and total gift value.
 
-The confirmation action turns a valid product selection into collaboration acceptance and continues to a Shopify-hosted checkout. Browsing the assortment or submitting an application does not accept the collaboration. The interface explains the consequence before the creator confirms a selection.
+The creator can review and revise a valid product selection throughout the Shopify-hosted checkout. Browsing the assortment, confirming a selection, starting checkout, or submitting an application does not accept the collaboration. Acceptance occurs when the creator submits the complete order, and the interface explains that consequence before submission.
 
-Shopify creates the initial order, identifies it as a gift, applies the brand's custom reporting tags, and sends it through the merchant's normal fulfillment process. The creator commerce platform brings acceptance, order reference, fulfillment state, recoverable exceptions, associated content, and performance results into the collaboration view.
+Shopify creates the initial order, identifies it as a gift, applies the brand's custom reporting tags, and sends it through the merchant's normal fulfillment process. The creator commerce platform brings the submitted acceptance, order reference, fulfillment state, recoverable exceptions, associated content, and performance results into the collaboration view. Accepting the gift authorizes fulfillment; it does not require the creator to publish content.
 
 ## How it works
 
@@ -47,7 +47,7 @@ Shopify creates the initial order, identifies it as a gift, applies the brand's 
 3. **Configure gifting:** The brand builds an eligible gifting catalog, sets the number of products or total gift value, adds reporting tags, and can reuse the same configuration across multiple campaigns.
 4. **Open access:** The brand opens the campaign to creator applications, invites selected creators, or uses both paths.
 5. **Prioritize fit:** The platform uses campaign answers, audience data, and previous performance to surface top applicants. The brand makes the final selection.
-6. **Select and accept:** An approved or invited creator confirms the allowed products, quantities, and variants. The valid selection records collaboration acceptance and continues to checkout.
+6. **Select and accept:** An approved or invited creator confirms the allowed products, quantities, variants, and delivery information. The complete order submission records collaboration acceptance and sends the order to Shopify.
 7. **Fulfill and measure:** Shopify creates the gift-tagged order and handles normal fulfillment. Brand and support teams can trace the collaboration, reconcile it with custom tags, and review the content and conversion that follow.
 
 ## Architecture and trust
@@ -90,5 +90,5 @@ The following public LTK pages provide historical or current category context fo
 ## Related product documents
 
 - [Executive Summary](./README.md)
-- Product Requirements, under review
-- User Stories, under review
+- [Product Requirements](./PRODUCT-REQUIREMENTS.md)
+- [User Stories](./USER-STORIES.md)
