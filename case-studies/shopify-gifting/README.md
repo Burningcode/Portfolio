@@ -24,6 +24,14 @@ I worked with a staff engineer to build the limited-distribution integration ove
 
 **Assumption to challenge:** Operational throughput is only useful if it produces more relevant creator content and that content drives conversion. Gifts alone are a cost, not evidence of customer value.
 
+## Product leadership and investment decision
+
+I led the design-partner interviews with participating brands and then led the feasibility test with five enterprise brands. I also worked directly with Shopify while a staff engineer and I designed the 3-week pilot around what we needed to learn: how to represent eligible catalogs, whether creators could choose a product and accept a collaboration in one flow, and whether the resulting order could enter the brand's existing fulfillment operation.
+
+The pilot validated the path. It gave us real catalog and fulfillment data, clarified where Shopify should remain authoritative, and showed that creators could complete product selection and collaboration acceptance as one coherent action. Because it removed most active operator work and materially increased capacity, it shaped the reusable gifting and fulfillment capability inside the broader Brand Platform.
+
+The leadership decision was to match the investment to the uncertainty. We did not begin by rebuilding fulfillment across every commerce platform. We proved the behavior in the system most brands already used, preserved boundaries that could support other providers later, and expanded the investment after the evidence justified it.
+
 ## Positioning
 
 For brand teams whose gifting programs have outgrown message-based coordination, Shopify-enabled Creator Gifting turns an eligible product choice and completed order submission into both an accepted collaboration and a gift order inside the brand's existing fulfillment workflow.
